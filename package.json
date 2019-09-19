@@ -1,0 +1,19 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baiduSpider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gbk": "^0.1.0",
+    "jsdom": "^15.1.1"
+  },
+  "dependencies": {
+    "mysql-pro": "^1.0.1"
+  }
+}
